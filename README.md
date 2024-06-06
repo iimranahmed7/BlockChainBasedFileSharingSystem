@@ -1,1 +1,1 @@
-# BlockChainBasedFileSharingSystem
+We developed a web-based application for decentralized file storing using blockchain. In this application any user can upload as many files(one at a time) as he/she likes. All other peers and the user himself can download and access those file in their system. File can be of any type and any size. 
